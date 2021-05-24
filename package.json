@@ -11,5 +11,12 @@
     "url": "git@github.com-work:coderAurora/background-generator-2.git"
   },
   "author": "coderAurora",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
