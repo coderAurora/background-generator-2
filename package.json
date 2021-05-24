@@ -1,0 +1,15 @@
+{
+  "name": "background-generator-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-work:coderAurora/background-generator-2.git"
+  },
+  "author": "coderAurora",
+  "license": "ISC"
+}
