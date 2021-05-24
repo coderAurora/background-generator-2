@@ -2,6 +2,9 @@
 /*import { without } from 'lodash';*/
 var _= require('lodash');
 
+let array = [1,2,3,5,6,7,8,];
+console.log('answer', _.without(array, 3));
+
 const css = document.querySelector('h3');
 const color1 = document.querySelector(".color1");
 const color2 = document.querySelector(".color2");
